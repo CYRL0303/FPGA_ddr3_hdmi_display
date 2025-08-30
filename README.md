@@ -1,0 +1,1 @@
+Developed the OV5640 camera power-up and timing sequences using Verilog; Implemented read/write operations for the MT41J128M16 DRAM chip with Xilinx DDR3 IP; Transferred data to DDR3 via UART and retrieved data through AXI4 for HDMI display, incorporating an asynchronous FIFO; Verified each module through ModelSim simulation.
